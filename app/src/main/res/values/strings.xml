@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Eureka</string>
+    <string name="kmcklein_gmail_com">kmcklein@gmail.com</string>
+    <string name="_809_832_9258">809-832-9258</string>
+    <string name="phones">Phones</string>
+    <string name="eureka_tech">Eureka Tech</string>
+    <string name="llamar">llamar</string>
+    <string name="_809_488_4878">809-488-4878</string>
+    <string name="mcklein_outlook_com">mcklein@outlook.com</string>
+    <string name="email">Email</string>
+    <string name="asunto">Asunto</string>
+    <string name="su_nombre">Su nombre</string>
+    <string name="escriba_su_mensaje">Escriba su mensaje</string>
+    <string name="su_telefono">Su telefono</string>
+</resources>
